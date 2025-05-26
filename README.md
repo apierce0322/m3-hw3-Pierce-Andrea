@@ -1,3 +1,4 @@
+# m3-hw3-pierce-andrea
 ## 🧪 Lighthouse Report
 
 The site was tested using Chrome DevTools → Lighthouse Audit with all categories enabled.
